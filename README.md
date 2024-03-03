@@ -18,7 +18,7 @@
 ## Public Contest Results
 
 ## Book an Audit
-If you are a protocol founder or developer looking to get your smart contracts audited by our team you can contact us on [Twitter](#contact-us), [Telegram](#contact-us) or [Discord](#contact-us) to discuss safeguarding your code.
+If you are a protocol founder or developer looking to get your smart contracts audited by our team you can contact us on [Twitter](#contact-us), [Telegram](#contact-us) or [Discord](#contact-us) to further discuss safeguarding your code.
 
 ### Standard Audit Model
 - Project needs to be assessed with high level overview of the codebase and scope
