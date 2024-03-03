@@ -18,7 +18,18 @@
 ## Public Contest Results
 
 ## Book an Audit
+If you are a protocol founder or developer looking to get your smart contracts audited by our team you can contact us on [Twitter](#contact-us), [Telegram](#contact-us) or [Discord](#contact-us) to discuss safeguarding your code.
 
+### Standard Audit Model
+- Project needs to be assessed with high level overview of the codebase and scope
+- Prepare low/informational pre-audit report
+- Negotiate quote and timeframe
+### Pay-Per-Vulnerability (PPV) Audit Model
+PPV Audit with paid base fee prior to diving in.
+- Base fee will be calculated based on an overview of the contracts' complexity, further bug findings are priced as:
+ - High: $1000
+ - Medium: $500
+ - Low/Informational: Freely included
 ## Contact us
 - Twitter: [cats](https://twitter.com/catscanaudit)/[nirlin](https://twitter.com/0xnirlin)
 - Discord: catscanaudit/0xnirlin
