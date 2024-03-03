@@ -5,15 +5,21 @@
 </p>
 
 ## Table of Contents
-
-## Meet the team:
+- [Private Audit Engagements](#private-audit-engagements)
+- [Public Contest Results](#public-contest-results)
+- [Book an Audit](#book-an-audit)
+- [Contact us](#contact-us)
+## Meet the Team:
 - [cats](https://twitter.com/catscanaudit):
-- 
+  - Smart contract security researcher with one main goal in mind: find all bugs before the villains do.
 
-## Private audit engagements
+## Private Audit Engagements
 
-## Public contest results
+## Public Contest Results
 
-## Book an audit
+## Book an Audit
 
 ## Contact us
+- Twitter: [cats](https://twitter.com/catscanaudit)/[nirlin](https://twitter.com/0xnirlin)
+- Discord: catscanaudit/0xnirlin
+- Telegram: [cats](https://t.me/catscanaudit)/[nirlin](https://t.me/NirlinSecurity)
