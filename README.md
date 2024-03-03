@@ -1,7 +1,5 @@
 # Cats Security - Smart Contract Audit Portfolio
 
-![logo wide](https://github.com/catssecurity/audit/assets/162015731/1d1d4175-5ead-4131-98c7-8d1667523e9a)
-
 <p align="center">
   <img width="700" height="350" src="https://github.com/catssecurity/audit/assets/162015731/1d1d4175-5ead-4131-98c7-8d1667523e9a">
 </p>
