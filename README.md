@@ -11,7 +11,7 @@
 - [Contact us](#contact-us)
 ## Meet the Team:
 - [cats](https://twitter.com/catscanaudit):
-  - Smart contract security researcher with one main goal in mind: find all bugs before the villains do.
+  - Smart contract security researcher commited to keeping your codebase bug-free. Doing my best to safeguard protocols from unexpected behaviors and the big bad blackhats.
 
 ## Public Contest Results
 The following numbers can be verified from Code4rena, Sherlock & CodeHawks platforms under our names nirlin (c4), 0xnirlin (Sherlock), cats (c4, sherlock, codehawks), CatsSecurity C4 team.
