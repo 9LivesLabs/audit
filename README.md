@@ -13,9 +13,16 @@
 - [cats](https://twitter.com/catscanaudit):
   - Smart contract security researcher with one main goal in mind: find all bugs before the villains do.
 
-## Private Audit Engagements
-
 ## Public Contest Results
+The following numbers can be verified from Code4rena, Sherlock & CodeHawks platforms under our names nirlin (c4), 0xnirlin (Sherlock), cats (c4, sherlock, codehawks), CatsSecurity C4 team.
+
+Not including any accepted low findings, QA reports, and analysis reports here, only impactful findings.
+
+| Overall issues | High risk | Medium risk |
+| ---------------| ----------| ------------|
+| 99             | 33        |   66        |
+
+## Private Audit Engagements
 
 ## Book an Audit
 If you are a protocol founder or developer looking to get your smart contracts audited by our team you can contact us on [Twitter](#contact-us), [Telegram](#contact-us) or [Discord](#contact-us) to further discuss safeguarding your code.
