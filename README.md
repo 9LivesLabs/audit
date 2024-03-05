@@ -12,7 +12,7 @@
 - 
 ## Meet the Team:
 
-- ## [Nrilin](https:twitter.com/0xnirlin)
+- ## [Nirlin](https:twitter.com/0xnirlin)
   -Experienced smart contract security auditor with over 70 high and medium severity reports. Have done multiple private engagements with large protocols and working with the Sherlock team. Also a top performer across multiple contests on code4rena and sherlock.
   
 - ## [Cats](https://twitter.com/catscanaudit)
