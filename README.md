@@ -13,15 +13,15 @@
 ## Meet the Team:
 
 - ## [Nirlin](https:twitter.com/0xnirlin)
-  -Experienced smart contract security auditor with over 70 high and medium severity reports. Have done multiple private engagements with large protocols and working with the Sherlock team. Also a top performer across multiple contests on code4rena and sherlock.
+  - Experienced smart contract security auditor with over 70 high and medium severity reports. Have done multiple private engagements with large protocols and working with the Sherlock team. Also a top performer across multiple contests on Code4rena and Sherlock.
   
 - ## [Cats](https://twitter.com/catscanaudit)
-  - Smart contract security researcher commited to keeping your codebase bug-free. Overall 35+ vulnerabilities reported so far, specialising in dexes, lending borrowing protocols and cross chain brdiges. 
+  - Smart contract security auditor commited to keeping your codebase bug-free. Over 35 high/medium severity vulnerabilities reported - specialising in dexes, lending and borrowing protocols, and cross chain bridges. 
 
 ## Public Contest Results
 The following numbers can be verified from Code4rena, Sherlock & CodeHawks platforms under our names nirlin (c4), 0xnirlin (Sherlock), cats (c4, sherlock, codehawks), CatsSecurity C4 team.
 
-Not including any accepted low findings, QA reports, and analysis reports here, only impactful findings.
+**(Not including any accepted low findings, QA reports, and analysis reports here, only impactful findings)**
 
 | Overall issues | High risk | Medium risk |
 | ---------------| ----------| ------------|
