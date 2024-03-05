@@ -4,12 +4,12 @@
 </p>
 
 ## Table of Contents
-- [Private Audit Engagements](#private-engagements)
+- [Meet the Team](#meet-the-team)
 - [Public Contest Results](#public-contest-results)
+- [Private Engagements](#private-engagements)
 - [Book an Audit](#book-an-audit)
 - [Contact us](#contact-us)
 
-- 
 ## Meet the Team:
 
 - ## [Nirlin](https:twitter.com/0xnirlin)
@@ -17,9 +17,6 @@
   
 - ## [Cats](https://twitter.com/catscanaudit)
   - Smart contract security researcher commited to keeping your codebase bug-free. Overall 35+ vulnerabilities reported so far, specialising in dexes, lending borrowing protocols and cross chain brdiges. 
-
-
-
 
 ## Public Contest Results
 The following numbers can be verified from Code4rena, Sherlock & CodeHawks platforms under our names nirlin (c4), 0xnirlin (Sherlock), cats (c4, sherlock, codehawks), CatsSecurity C4 team.
@@ -37,22 +34,16 @@ Not including any accepted low findings, QA reports, and analysis reports here, 
 5.  Fourth overall in Ondo Finance Contest on Code4rena - [Result Link](https://code4rena.com/audits/2023-09-ondo-finance#top)
 6.  Sixth overall in Axelar Contest on Code4rena - [Result Link](https://code4rena.com/audits/2023-07-axelar-network#top)
 
-
-
-
 ## [Private Engagements]
+
 | Project                                             | Type                | Report SLOC | Chain                         |
 |-----------------------------------------------------|---------------------|-------------|-------------------------------|
-| [Dein Protocol](https://docs.dein.di)              | On chain insurance | Coming soon | Mainnet/L2 |
+| [Dein Protocol](https://docs.dein.di)               | On chain insurance  | Coming soon | Mainnet/L2                    |
 | [Abracadabra Money DEX](https://abracadabra.money/) | DEX                 | Coming soon | Blast                         |
-| [Possum Labs](https://www.possumlabs.io/)          | TBA                 | Coming soon | TBA                           |
-
-
+| [Possum Labs](https://www.possumlabs.io/)           | TBA                 | Coming soon | TBA                           |
 
 ## Book an Audit
 If you are a protocol founder or developer looking to get your smart contracts audited by our team you can contact us on [Twitter](#contact-us), [Telegram](#contact-us) or [Discord](#contact-us) to further discuss safeguarding your code.
-
-
 
 ### Standard Audit Model
 - Project needs to be assessed with high level overview of the codebase and scope
