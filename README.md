@@ -34,7 +34,7 @@ The following numbers can be verified from Code4rena, Sherlock & CodeHawks platf
 5.  Fourth overall in Ondo Finance Contest on Code4rena - [Result Link](https://code4rena.com/audits/2023-09-ondo-finance#top)
 6.  Sixth overall in Axelar Contest on Code4rena - [Result Link](https://code4rena.com/audits/2023-07-axelar-network#top)
 
-## [Private Engagements]
+## Private Engagements
 
 | Project                                             | Type                | Report SLOC | Chain                         |
 |-----------------------------------------------------|---------------------|-------------|-------------------------------|
