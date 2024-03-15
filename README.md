@@ -1,6 +1,6 @@
 # 9Lives Labs - Pay Per Vulnerability Model Available 
 <p align="center">
-  <img width="1500" height="500" src="https://github.com/9LivesLabs/audit/assets/162015731/32e9940a-9589-45e8-87ad-cc58e78d9f2b">
+  <img width="700" height="350" src="https://github.com/9LivesLabs/audit/assets/162015731/78e9b080-210b-47c0-aa77-2b097d768a3d">
 </p>
 
 ## Table of Contents
