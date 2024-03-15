@@ -36,11 +36,11 @@ The following numbers can be verified from Code4rena, Sherlock & CodeHawks platf
 
 ## Private Engagements
 
-| Project                                             | Type                | Report SLOC | Chain                         |
-|-----------------------------------------------------|---------------------|-------------|-------------------------------|
-| [Dein Protocol](https://docs.dein.di)               | On chain insurance  | Coming soon | Mainnet/L2                    |
-| [Abracadabra Money DEX](https://abracadabra.money/) | DEX                 | Coming soon | Blast                         |
-| [MEM Bridge](https://www.mem.tech/)           | Cross chain bridge                 | Coming soon | Mainnet/Optimism                           |
+| Project                                             | Type                | Date           | Chain                         |
+|-----------------------------------------------------|---------------------|----------------|-------------------------------|
+| [Dein Protocol](https://docs.dein.di)               | On chain insurance  | December, 2023 | Mainnet/L2                    |
+| [Abracadabra Money DEX](https://abracadabra.money/) | DEX                 | February, 2024 | Blast                         |
+| [MEM Bridge](https://www.mem.tech/)                 | Cross chain bridge  | March, 2024    | Mainnet/Optimism              |
 
 ## Book an Audit
 If you are a protocol founder or developer looking to get your smart contracts audited by our team you can contact us on [Twitter](#contact-us), [Telegram](#contact-us) or [Discord](#contact-us) to further discuss safeguarding your code.
