@@ -49,13 +49,8 @@ If you are a protocol founder or developer looking to get your smart contracts a
 - Project needs to be assessed with high level overview of the codebase and scope
 - Prepare low/informational pre-audit report
 - Negotiate quote and timeframe
-### Pay-Per-Vulnerability (PPV) Audit Model
-PPV Audit with paid base fee prior to diving in.
-- Base fee will be calculated based on an overview of the contracts' complexity, further bug findings are priced as:
- - High: $1000
- - Medium: $500
- - Low/Informational: Freely included
+  
 ## Contact us
-- Twitter: [cats](https://twitter.com/catscanaudit)/[nirlin](https://twitter.com/0xnirlin)
+- Twitter: [cats]()/[nirlin](https://twitter.com/0xnirlin)
 - Discord: catscanaudit/0xnirlin
-- Telegram: [cats](https://t.me/catscanaudit)/[nirlin](https://t.me/NirlinSecurity)
+- Telegram: [cats]()/[nirlin](https://t.me/NirlinSecurity)
