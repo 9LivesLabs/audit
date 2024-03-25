@@ -51,6 +51,6 @@ If you are a protocol founder or developer looking to get your smart contracts a
 - Negotiate quote and timeframe
   
 ## Contact us
-- Twitter: [cats]()/[nirlin](https://twitter.com/0xnirlin)
+- Twitter: [cats](https://twitter.com/catscanaudit)/[nirlin](https://twitter.com/0xnirlin)
 - Discord: catscanaudit/0xnirlin
-- Telegram: [cats]()/[nirlin](https://t.me/NirlinSecurity)
+- Telegram: [cats](http://t.me/catscanaudit)/[nirlin](https://t.me/NirlinSecurity)
