@@ -41,7 +41,8 @@ The following numbers can be verified from Code4rena, Sherlock & CodeHawks platf
 | [Dein Protocol](https://docs.dein.di)               | On chain insurance  | December, 2023 | N/A                           |
 | [Abracadabra Money DEX](https://abracadabra.money/) | DEX                 | February, 2024 | N/A                           |
 | [MEM Bridge](https://www.mem.tech/)                 | Cross chain bridge  | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/MEM-Bridge-Final-Report.pdf)                    |
-| [Chad Finance](https://chadfinance.xyz/)            | Lending & Borrowing | March, 2024    | Soon                          |
+| [Chad Finance](https://chadfinance.xyz/)            | Lending & Borrowing | March, 2024    | N/A                           |
+| Undisclosed                                         | Yield generation    | April, 2024    | N/A                           |
 
 ## Book an Audit
 If you are a protocol founder or developer looking to get your smart contracts audited by our team you can contact us on [Twitter](#contact-us), [Telegram](#contact-us) or [Discord](#contact-us) to further discuss safeguarding your code.
