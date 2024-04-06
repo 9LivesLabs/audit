@@ -3,7 +3,7 @@
   <img width="700" height="350" src="https://github.com/9LivesLabs/audit/assets/162015731/78e9b080-210b-47c0-aa77-2b097d768a3d">
 </p>
 
-### Millions in TVL saved for other, save your TVL too. 
+### We've successfully saved millions for others, and we can do the same for you too.
 
 ## Table of Contents
 - [Meet the Team](#meet-the-team)
