@@ -14,7 +14,7 @@
 
 ## Meet the Team:
 
-Our teams have saved millions in TVL for different protocol over last year. 
+Our team has saved millions in TVL for protocols over the last year. 
 
 - ## [Nirlin](https:twitter.com/0xnirlin)
   - Experienced smart contract security auditor with over 70 high and medium severity reports. Have done multiple private engagements with large protocols and working with the Sherlock team. Also a top performer across multiple contests on Code4rena and Sherlock.
@@ -42,12 +42,12 @@ The following numbers can be verified from Code4rena, Sherlock & CodeHawks platf
 
 | Project                                             | Type                | Date           | Report                        |
 |-----------------------------------------------------|---------------------|----------------|-------------------------------|
-| [Dein Protocol](https://docs.dein.di)               | On chain insurance  | December, 2023 | Coming soon                        |
-| [Abracadabra Money DEX](https://abracadabra.money/) With Guardians Audit | DEX                 | February, 2024 | Coming Soon                          |
-| [MEM Bridge](https://www.mem.tech/)                | Cross chain bridge  | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/MEM-Bridge-Final-Report.pdf)                    |
+| [Dein Protocol](https://docs.dein.di)               | On chain insurance  | December, 2023 | Coming soon                   |
+| [Abracadabra Money DEX](https://abracadabra.money/) With Guardians Audit | DEX             | February, 2024 | Coming Soon  |
+| [MEM Bridge](https://www.mem.tech/)                 | Cross chain bridge  | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/MEM-Bridge-Final-Report.pdf)                    |
 | [Chad Finance](https://chadfinance.xyz/)            | CDP Stablecoin      | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/ChadFinance-Final-Report.pdf)                   |
-| Zero g-fi                                         | Liquid Restaking Protocol    | April, 2024    | N/A                           |
-| [JuiceBox](https://juicebox.money/)      | Cross chain fundraising   | April, 2024    | Coming Soon                          |
+| Zero-G                                              | Liquid Restaking Protocol  | April, 2024    | N/A                    |
+| [JuiceBox](https://juicebox.money/)                 | Cross Chain Fundraising    | April, 2024    | Coming Soon            |
 
 ## Book an Audit
 If you are a protocol founder or developer looking to get your smart contracts audited by our team you can contact us on [Twitter](#contact-us), [Telegram](#contact-us) or [Discord](#contact-us) to further discuss safeguarding your code.
