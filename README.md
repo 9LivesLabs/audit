@@ -47,7 +47,7 @@ The following numbers can be verified from Code4rena, Sherlock & CodeHawks platf
 | [MEM Bridge](https://www.mem.tech/)                 | Cross chain bridge  | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/MEM-Bridge-Final-Report.pdf)                    |
 | [Chad Finance](https://chadfinance.xyz/)            | CDP Stablecoin      | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/ChadFinance-Final-Report.pdf)                   |
 | Zero-G                                              | Liquid Restaking Protocol  | April, 2024    | N/A                    |
-| [JuiceBox](https://juicebox.money/)                 | Cross Chain Fundraising    | April, 2024    | Coming Soon            |
+| [JuiceBox v4](https://juicebox.money/)                 | Cross Chain Fundraising    | April, 2024    | Coming Soon            |
 
 ## Book an Audit
 If you are a protocol founder or developer looking to get your smart contracts audited by our team you can contact us on [Twitter](#contact-us), [Telegram](#contact-us) or [Discord](#contact-us) to further discuss safeguarding your code.
