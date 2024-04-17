@@ -45,7 +45,7 @@ The following numbers can be verified from Code4rena, Sherlock & CodeHawks platf
 | [JuiceBox v4](https://juicebox.money/)                 | Cross Chain Fundraising    | April, 2024    | Coming Soon          |
 | [Dein Protocol](https://docs.dein.di)               | On chain insurance  | December, 2023 | Coming soon                   |
 | [Abracadabra Money DEX](https://abracadabra.money/) With Guardians Audit | DEX             | February, 2024 | Coming Soon  |
-| [MEM Bridge](https://www.mem.tech/)                 | Cross chain bridge  | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/MEM-Bridge-Final-Report.pdf)                    |
+| MEM Bridge             | Cross chain bridge  | March, 2024    | Report                 |
 | [Chad Finance](https://chadfinance.xyz/)            | CDP Stablecoin      | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/ChadFinance-Final-Report.pdf)                   |
 | Zero-G                                              | Liquid Restaking Protocol  | April, 2024    | N/A                    |
 
