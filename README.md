@@ -19,7 +19,7 @@ Our team has saved millions in TVL for protocols over the last year.
 - ## [Nirlin](https:twitter.com/0xnirlin)
   - Experienced smart contract security auditor with over 70 high and medium severity reports. Have done multiple private engagements with large protocols and working with the Sherlock team. Also a top performer across multiple contests on Code4rena and Sherlock.
   
-- ## [Cats](https://twitter.com/catscanaudit)
+- ## [Amar Fares](https://twitter.com/amarfares_)
   - Smart contract security auditor commited to keeping your codebase bug-free. Over 35 high/medium severity vulnerabilities reported - specialising in dexes, lending and borrowing protocols, and cross chain bridges. 
 
 ## Public Contest Results
@@ -58,6 +58,6 @@ If you are a protocol founder or developer looking to get your smart contracts a
 - Negotiate quote and timeframe
   
 ## Contact us
-- Twitter: [cats](https://twitter.com/catscanaudit)/[nirlin](https://twitter.com/0xnirlin)
+- Twitter: [Amar Fares](https://twitter.com/amarfares_)/[nirlin](https://twitter.com/0xnirlin)
 - Discord: catscanaudit/0xnirlin
-- Telegram: [cats](http://t.me/catscanaudit)/[nirlin](https://t.me/NirlinSecurity)
+- Telegram: [Amar Fares](http://t.me/amarfares_)/[nirlin](https://t.me/NirlinSecurity)
