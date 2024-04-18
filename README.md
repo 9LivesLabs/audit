@@ -60,4 +60,4 @@ If you are a protocol founder or developer looking to get your smart contracts a
 ## Contact us
 - Twitter: [Amar Fares](https://twitter.com/amarfares_)/[nirlin](https://twitter.com/0xnirlin)
 - Discord: catscanaudit/0xnirlin
-- Telegram: [Amar Fares](http://t.me/amarfares_)/[nirlin](https://t.me/NirlinSecurity)
+- Telegram: [Amar Fares](http://t.me/amarfares)/[nirlin](https://t.me/NirlinSecurity)
